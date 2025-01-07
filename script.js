@@ -15,3 +15,14 @@ function addTask(){
     }
     inputBox.value = "";
 }
+
+listContainer.addEventListener("click", function(e){
+    if(e.target.tagName === "LI"){
+        // If the target element's class is empty, it adds "checked". If "checked" is there, it removes the class name
+        e.target.classList.toggle("checked");
+    }
+    else if(e.target.tagName === "SPAN"){
+        // Deletes list item element entirely if the span element is clicked
+        e.target.parentElement.remove();
+    }
+}, false);
