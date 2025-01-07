@@ -3,3 +3,5 @@ Items to review:
     - user-select property: https://www.w3schools.com/cssref/css3_pr_user-select.php
     - Position property: https://www.w3schools.com/css/css_positioning.asp
     - text-decoration: https://www.w3schools.com/cssref/pr_text_text-decoration.php
+    - \u00d7 unicode sign (x icon for multiplication?): https://www.compart.com/en/unicode/U+00D7
+        Followup: https://www.w3schools.com/charsets/ref_utf_symbols.asp
