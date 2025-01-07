@@ -1,0 +1,5 @@
+Items to review:
+    - flex sub property: https://www.w3schools.com/cssref/css3_pr_flex.php
+    - user-select property: https://www.w3schools.com/cssref/css3_pr_user-select.php
+    - Position property: https://www.w3schools.com/css/css_positioning.asp
+    - text-decoration: https://www.w3schools.com/cssref/pr_text_text-decoration.php
